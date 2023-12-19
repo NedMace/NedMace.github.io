@@ -3560,6 +3560,15 @@ textarea.form-control-lg {
   border-bottom-left-radius: 0;
 }
 
+.custom-shape-divider-bottom-1702955802 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
 .dropdown-toggle-split {
   padding-right: 0.5625rem;
   padding-left: 0.5625rem;
